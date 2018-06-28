@@ -30,13 +30,12 @@
 * [Install CUDA Toolkit 8.0](https://developer.nvidia.com/cuda-downloads)
 * [Download cuDNN v6.0](https://developer.nvidia.com/cudnn)
 * [Install TensorFlow with GPU](https://www.tensorflow.org/install/)
-* [Install Caffe-Segnet with GPU](https://github.com/alexgkendall/caffe-segnet), caffe Installation ins [here](http://caffe.berkeleyvision.org/installation.html)
 
 
 ## Getting Started
 
 ## Results
-
+![](doc/sample-results.png) 
 
 ## Built With
 * [TensorFlow](https://github.com/tensorflow/models) - Image Recognition
