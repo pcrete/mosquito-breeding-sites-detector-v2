@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Mosquito Breeding Sites Detector V2
 
 ## Pipeline of process
@@ -42,3 +43,6 @@
 * [TensorFlow](https://github.com/tensorflow/models) - Image Recognition
 * [Overpass API](https://github.com/mvexel/overpass-api-python-wrapper) - Road/Street Geojson
 * [Google Map API](https://developers.google.com/maps/) - Street View Image and Visualization
+=======
+# Mosquito_Breeding_Sites_Detector_V2
+>>>>>>> 0c9230d89bb4a13679cd34abea1889712de6a3c3
