@@ -1,0 +1,5 @@
+data/GSV/กระบี่
+object_detection/dengue_inference_graph
+.ipynb_checkpoints/
+__pycache__
+*.pyc
